@@ -1,2 +1,2 @@
 # BrasswareShop
-This is reservation system for my brassware shop
+This is template for  brassware shop ecommerce app
